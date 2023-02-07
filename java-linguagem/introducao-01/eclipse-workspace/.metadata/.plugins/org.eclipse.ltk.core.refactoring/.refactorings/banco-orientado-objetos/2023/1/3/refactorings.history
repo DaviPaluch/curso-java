@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;orientacao-objetos&apos;&#x0D;&#x0A;- Original project: &apos;banco-orientado-objetos&apos;&#x0D;&#x0A;- Destination element: &apos;orientacao-objetos&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TesteReferencias.java&#x0D;&#x0A;     TestaMetodo.java&#x0D;&#x0A;     CriarConta.java&#x0D;&#x0A;     Conta.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" element1="/src&lt;{TesteReferencias.java" element2="/src&lt;{TestaMetodo.java" element3="/src&lt;{CriarConta.java" element4="/src&lt;{Conta.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1674275120532" target="/sintaxe-variaveis-e-fluxo/src/orientacao-objetos" units="4" version="1.0"/>
+</session>

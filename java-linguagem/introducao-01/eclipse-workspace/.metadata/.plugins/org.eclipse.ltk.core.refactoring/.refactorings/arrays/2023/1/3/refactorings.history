@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;sintaxe-variaveis-e-fluxo/src/arrays&apos;&#x0D;&#x0A;- Original project: &apos;arrays&apos;&#x0D;&#x0A;- Destination element: &apos;sintaxe-variaveis-e-fluxo/src/arrays&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     arrays.ArrayUnidimencionalReferencias.java&#x0D;&#x0A;     arrays.arrayUnidimencional.java&#x0D;&#x0A;     arrays.Cliente.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=sintaxe-variaveis-e-fluxo/src&lt;arrays" element1="/src&lt;arrays{ArrayUnidimencionalReferencias.java" element2="/src&lt;arrays{arrayUnidimencional.java" element3="/src&lt;arrays{Cliente.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1674274753291" units="3" version="1.0"/>
+</session>
